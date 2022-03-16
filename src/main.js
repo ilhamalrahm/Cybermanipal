@@ -37,7 +37,7 @@ const Main=()=>
             <div class="container">
   <div class="row d-flex position-absolute m-0 p-0" style={{top:"50%",left:"10%"}}>
     <div class="col" id='col1' style={{display:'block'}}>
-    <h4 className="email text-white" id='text' style={{top:"53%", left:"27%", fontWeight:"bold",display:'block'}}>Learner-id: </h4>
+    <h4 className="email text-white" id='text' style={{top:"53%", left:"27%", fontWeight:"bold",display:'block'}}>Learner-id  : </h4>
    
     </div>
     <div className="col" id='col2' style={{display:'block'}}>
